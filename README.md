@@ -1,4 +1,4 @@
-# ifyn_share_js
+# js
 
 脚本仅供学习交流，切勿用于非法行为，如有违反，与作者无关。若有侵权行为，请联系删除。
 
@@ -6,7 +6,7 @@
 ##
 
 
-青龙面板拉取:https://github.com/i-Fyn/ifyn_share_js.git
+青龙面板拉取:https://github.com/i-Fyn/js.git
 
 
 ##
