@@ -19,6 +19,8 @@ TG:https://t.me/+Ev5wcWKq1fZmYzI1
 
 # 使用方法
 
+环境变量：secret
+#
 
 bjqc.js=>北京汽车  变量=>专用软件
 #
